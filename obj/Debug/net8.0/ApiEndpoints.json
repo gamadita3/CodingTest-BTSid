@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "CodingTest_BTSid.DTO.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "CodingTest_BTSid.DTO.UserRegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistController",
+    "Method": "GetAllChecklists",
+    "RelativePath": "api/Checklist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistController",
+    "Method": "CreateChecklist",
+    "RelativePath": "api/Checklist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checklistDto",
+        "Type": "CodingTest_BTSid.Dto.ChecklistDto\u002BChecklistCreation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistController",
+    "Method": "DeleteChecklist",
+    "RelativePath": "api/Checklist/{checklistId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checklistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistItemController",
+    "Method": "GetAllItems",
+    "RelativePath": "api/checklist/{checklistId}/ChecklistItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checklistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistItemController",
+    "Method": "CreateItem",
+    "RelativePath": "api/checklist/{checklistId}/ChecklistItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checklistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "itemDto",
+        "Type": "CodingTest_BTSid.Dto.ChecklistItemDto\u002BChecklistItemCreation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistItemController",
+    "Method": "UpdateItem",
+    "RelativePath": "api/checklist/{checklistId}/ChecklistItem/{checklistItemId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checklistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "checklistItemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "itemDto",
+        "Type": "CodingTest_BTSid.Dto.ChecklistItemDto\u002BChecklistItemUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodingTest_BTSid.Controllers.ChecklistItemController",
+    "Method": "DeleteItem",
+    "RelativePath": "api/checklist/{checklistId}/ChecklistItem/{checklistItemId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checklistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "checklistItemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\CodingTest-BTSid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\models\\checklistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:models\\checklistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\models\\checklistitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:models\\checklistitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\migrations\\20240924061355_updatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:migrations\\20240924061355_updatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\migrations\\20240924052711_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:migrations\\20240924052711_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\dto\\checklistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:dto\\checklistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\dto\\checklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:dto\\checklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\controllers\\checklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:controllers\\checklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\controllers\\checklistitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:controllers\\checklistitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\CodingTest-BTSid\\Migrations\\20240924060011_ChangeUserIdToGuid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240924060011_ChangeUserIdToGuid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|y:\\codingtest-btsid\\codingtest-btsid.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31BC0D52-E94A-46E2-85F5-D9C0B70AE336}|CodingTest-BTSid.csproj|solutionrelative:codingtest-btsid.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoContextModelSnapshot.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Migrations\\ToDoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ToDoContextModelSnapshot.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Migrations\\ToDoContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ToDoContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:23:02.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240924061355_UpdateContext.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Migrations\\20240924061355_UpdateContext.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240924061355_UpdateContext.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Migrations\\20240924061355_UpdateContext.cs",
+              "RelativeToolTip": "Migrations\\20240924061355_UpdateContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:22:26.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Dto\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserRegistrationDto.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Dto\\UserRegistrationDto.cs",
+              "RelativeToolTip": "Dto\\UserRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:23:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChecklistDto.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Dto\\ChecklistDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ChecklistDto.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Dto\\ChecklistDto.cs",
+              "RelativeToolTip": "Dto\\ChecklistDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:04:10.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChecklistItemModel.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Models\\ChecklistItemModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChecklistItemModel.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Models\\ChecklistItemModel.cs*",
+              "RelativeToolTip": "Models\\ChecklistItemModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:37:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChecklistModel.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Models\\ChecklistModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChecklistModel.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Models\\ChecklistModel.cs",
+              "RelativeToolTip": "Models\\ChecklistModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:29:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:50:50.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:11:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:28:24.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChecklistController.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Controllers\\ChecklistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChecklistController.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Controllers\\ChecklistController.cs",
+              "RelativeToolTip": "Controllers\\ChecklistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:30:18.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChecklistItemController.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Controllers\\ChecklistItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChecklistItemController.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Controllers\\ChecklistItemController.cs",
+              "RelativeToolTip": "Controllers\\ChecklistItemController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:59:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChecklistItemDto.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Dto\\ChecklistItemDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ChecklistItemDto.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Dto\\ChecklistItemDto.cs",
+              "RelativeToolTip": "Dto\\ChecklistItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:04:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240924052711_InitialCreate.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Migrations\\20240924052711_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240924052711_InitialCreate.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Migrations\\20240924052711_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240924052711_InitialCreate.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:27:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "ToDoContext.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\ToDoContext.cs",
+              "RelativeToolTip": "ToDoContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:45:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserLoginDto.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:45:30.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240924060011_ChangeUserIdToGuid.cs",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\Migrations\\20240924060011_ChangeUserIdToGuid.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240924060011_ChangeUserIdToGuid.cs",
+              "ToolTip": "Y:\\CodingTest-BTSid\\Migrations\\20240924060011_ChangeUserIdToGuid.cs",
+              "RelativeToolTip": "Migrations\\20240924060011_ChangeUserIdToGuid.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:00:12.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CodingTest-BTSid.http",
+              "DocumentMoniker": "Y:\\CodingTest-BTSid\\CodingTest-BTSid.http",
+              "RelativeDocumentMoniker": "CodingTest-BTSid.http",
+              "ToolTip": "Y:\\CodingTest-BTSid\\CodingTest-BTSid.http",
+              "RelativeToolTip": "CodingTest-BTSid.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-24T05:10:38.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
